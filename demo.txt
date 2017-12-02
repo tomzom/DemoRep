@@ -2,5 +2,4 @@ Testujemy 12
 A to z lokala
 A to z serwera
 
-A teraz branch
-1234 - Master
+A teraz zmieniam
