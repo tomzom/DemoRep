@@ -1,1 +1,2 @@
 Testujemy 12
+A to z lokala
