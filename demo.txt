@@ -1,13 +1,2 @@
-Testujemy 123
-<<<<<<< HEAD
-<<<<<<< HEAD
+11Testujemy 12
 A to z lokala
-A to z serwera
-
-A teraz branch
-1234 - Branch
-=======
->>>>>>> parent of f4c9442... Zmiana na lokalu
-=======
-A to z lokala
->>>>>>> parent of 7f55205... commit na serwerze
