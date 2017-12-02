@@ -7,3 +7,4 @@ A teraz branch
 1234 - Branch
 =======
 >>>>>>> parent of f4c9442... Zmiana na lokalu
+>>>>>>> parent of 7f55205... commit na serwerze
