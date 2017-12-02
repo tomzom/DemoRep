@@ -3,4 +3,4 @@ A to z lokala
 A to z serwera
 
 A teraz branch
-1234 - Master
+1234 - Branch
