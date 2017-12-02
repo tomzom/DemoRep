@@ -1,6 +1,9 @@
 Testujemy 12
+<<<<<<< HEAD
 A to z lokala
 A to z serwera
 
 A teraz branch
 1234 - Branch
+=======
+>>>>>>> parent of f4c9442... Zmiana na lokalu
