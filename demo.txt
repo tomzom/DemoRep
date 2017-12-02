@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Testujemy 12
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17,3 +18,7 @@ A to z lokala
 >>>>>>> parent of f4c9442... Zmiana na lokalu
 =======
 >>>>>>> parent of 329eb3d... zmiana na bran
+=======
+11Testujemy 123456
+A to z lokala
+>>>>>>> fa51428f425d99db0a58dd5e5125645138ae4bd4
