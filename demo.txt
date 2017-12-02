@@ -1,6 +1,7 @@
 Testujemy 12
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 A to z lokala
 A to z serwera
 
@@ -11,3 +12,5 @@ A teraz branch
 =======
 A to z lokala
 >>>>>>> parent of 7f55205... commit na serwerze
+=======
+>>>>>>> parent of f4c9442... Zmiana na lokalu
