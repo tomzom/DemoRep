@@ -2,4 +2,4 @@ Testujemy 12
 A to z lokala
 A to z serwera
 
-A teraz branch
+A teraz zmieniam
